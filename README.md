@@ -1,5 +1,6 @@
-# odin-recipes
-This is a a repository for everything learned currently throughout the odin project course course
-This includes: basic html, css, javascript, linking images and links, etc
+# Recipes Webpage Collection
+This is a personal collection of my favorite food and drink recipes, presented in a simple web format. 
 
-This specific poject will test my knowledge on lists and using tabs
+## About
+This project is a curated collection of recipes that I love, built as a static website for easy access and sharing. Each recipe includes ingredients, step-by-step instructions, preparation time, and personal notes on why I love these dishes.
+
